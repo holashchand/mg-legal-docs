@@ -1,5 +1,8 @@
-title: Holash Chand — Legal
-description: Privacy policies, terms of use and licenses for Holash Chand mobile games
-theme: jekyll-theme-minimal
+title: Legal
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 include:
   - app-ads.txt
