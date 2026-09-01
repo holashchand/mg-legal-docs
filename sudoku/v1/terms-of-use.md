@@ -4,13 +4,12 @@ title: Terms of Use — Sudoku
 
 # Terms of Use — Sudoku
 
-**Effective date:** 1 September 2026
-**Last updated:** 1 September 2026
+Version 1 · Effective 1 September 2026 · Last updated 1 September 2026
 
-These Terms of Use ("Terms") are a legal agreement between you and **Holash
-Chand**, an individual developer ("we", "us", "our"), governing your use of the
-mobile application **Sudoku** (the "App", package `org.hcj.sudoku`) and any
-updates to it.
+These Terms of Use ("Terms") are a legal agreement between you and the developer
+of the mobile application Sudoku (the "App", package `org.hcj.sudoku`) ("we",
+"us", "our"), governing your use of the App and any updates to it. The
+developer's name and contact details are in Section 14.
 
 By downloading, installing, or using the App you agree to these Terms and to the
 [Privacy Policy](./privacy-policy). If you do not agree, do not use the App.
@@ -41,8 +40,7 @@ You may not, and may not permit others to:
 ## 3. Ownership
 
 The App, its source code, design, artwork, sounds, and all related intellectual
-property are owned by Holash Chand and are protected by copyright and other
-laws. "Sudoku" as a puzzle type is a generic term; these Terms claim no rights
+property are owned by us and are protected by copyright and other laws. "Sudoku" as a puzzle type is a generic term; these Terms claim no rights
 in the puzzle concept itself, only in this specific App and its original
 content. All rights not expressly granted are reserved. See the `LICENSE` file
 distributed with the source for the applicable source-code terms.
@@ -83,7 +81,7 @@ the App at your own risk.
 
 ## 8. Limitation of liability
 
-To the fullest extent permitted by law, Holash Chand will not be liable for any
+To the fullest extent permitted by law, we will not be liable for any
 indirect, incidental, special, consequential, or punitive damages, or for loss
 of data, profits, or goodwill, arising from your use of or inability to use the
 App. Our total aggregate liability for all claims relating to the App will not
@@ -95,7 +93,7 @@ including for death or personal injury caused by negligence, or for fraud.
 
 ## 9. Indemnity
 
-You agree to indemnify and hold harmless Holash Chand from any claim or demand
+You agree to indemnify and hold us harmless from any claim or demand
 arising out of your misuse of the App or your breach of these Terms.
 
 ## 10. Termination
@@ -110,7 +108,7 @@ These Terms are governed by the laws of **India**, without regard to
 conflict-of-law rules. Subject to any non-waivable rights you have as a consumer
 in your country of residence, the courts of **India** have exclusive
 jurisdiction over any dispute. You and we agree to attempt to resolve any
-dispute informally by contacting **loganbabu87@gmail.com** first.
+dispute informally by contacting us (Section 14) first.
 
 ## 12. App store terms
 
@@ -126,4 +124,5 @@ date". Continued use after that date is acceptance.
 
 ## 14. Contact
 
-**Holash Chand** — **loganbabu87@gmail.com**
+The App is provided by Holash Chand. For questions about these Terms, contact
+loganbabu87@gmail.com.

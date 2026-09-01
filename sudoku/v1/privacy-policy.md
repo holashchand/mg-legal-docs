@@ -4,14 +4,12 @@ title: Privacy Policy — Sudoku
 
 # Privacy Policy — Sudoku
 
-**Effective date:** 1 September 2026
-**Last updated:** 1 September 2026
+Version 1 · Effective 1 September 2026 · Last updated 1 September 2026
 
-This Privacy Policy explains how the mobile application **Sudoku** (the "App",
-Android package `org.hcj.sudoku`) handles information. The App is published by
-**Holash Chand**, an individual developer ("we", "us", "our").
-
-Contact / grievance officer: **loganbabu87@gmail.com**
+This Privacy Policy explains how the mobile application Sudoku (the "App",
+Android package `org.hcj.sudoku`) handles information. It is provided by the
+App's developer ("we", "us", "our"); contact and grievance-officer details are
+in Section 11.
 
 ---
 
@@ -119,14 +117,14 @@ with your local supervisory authority.
 for monetary value. Categories "collected" (via Google) in the last 12 months:
 identifiers (Advertising ID), internet/network activity (ad interactions),
 approximate geolocation. You have the right to know, delete, and correct, and to
-non-discrimination for exercising these rights. Submit requests to
-loganbabu87@gmail.com; because we hold no data ourselves, we will direct you to
+non-discrimination for exercising these rights. Submit requests using the
+contact in Section 11; because we hold no data ourselves, we will direct you to
 Google's controls.
 
 **India (Digital Personal Data Protection Act, 2023).** You are a Data
 Principal. The App's processing is limited to what is described above. You may
-contact our grievance officer at **loganbabu87@gmail.com** to raise a concern; we
-will respond within the statutory period. Where processing depends on consent
+contact our grievance officer (Section 11) to raise a concern; we will respond
+within the statutory period. Where processing depends on consent
 (personalised ads in applicable regions), you may withdraw it via the in-App
 controls.
 
@@ -157,5 +155,6 @@ after an update constitutes acceptance.
 
 ## 11. Contact
 
-**Holash Chand**
-Email: **loganbabu87@gmail.com**
+For privacy questions or to exercise your rights, contact the App's developer,
+Holash Chand, at loganbabu87@gmail.com. This address also reaches the grievance
+officer for the purposes of the India Digital Personal Data Protection Act, 2023.
